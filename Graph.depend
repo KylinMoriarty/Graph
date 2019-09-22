@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569159168 source:c:\users\administrator\desktop\graph\main.cpp
+	<iostream>
+	"Graph.hpp"
+
+1569159901 c:\users\administrator\desktop\graph\graph.hpp
+	<iostream>
+	<set>
+	<queue>
+	<stack>
+	<string.h>
+
